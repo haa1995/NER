@@ -1,3 +1,3 @@
 # NER
 
-Named Entity Relationship
+Named Entity Recognition
